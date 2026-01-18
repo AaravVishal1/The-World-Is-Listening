@@ -2,7 +2,7 @@
 
 **The World Is Listening** is a subtle, atmospheric Minecraft mod that makes the world quietly respond to how you play.
 
-Your actions are not forgotten. Over time, the world observes player behavior and builds an awareness of how it is being treated — reacting in small, indirect ways rather than loud or scripted events.
+Your actions are not forgotten. Over time, the world observes player behavior and builds an awareness of how it is being treated, reacting in small, indirect ways rather than loud or scripted events.
 
 This mod is designed to feel *vanilla-adjacent*: slow, low-frequency changes that become noticeable over long survival playthroughs.
 
