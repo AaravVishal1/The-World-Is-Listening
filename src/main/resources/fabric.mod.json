@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "worldislistening",
+  "version": "${version}",
+  "name": "The World Is Listening",
+  "description": "The world silently observes player behavior and subtly reacts over time.",
+  "authors": ["Your Name"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.worldislistening.WorldIsListeningMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "minecraft": "1.20.1",
+    "fabric": "*",
+    "java": ">=17"
+  }
+}
