@@ -81,8 +81,8 @@ If you slow down, rest, respect the land, and change your habits, the world grad
 
 You can download the mod JAR here:
 
-**Google Drive:**  
-https://drive.google.com/file/d/1TZgIjEpK1tCpV95GYa_C0TY1JyYpsUof/view?usp=sharing
+**Curse Forge:**  
+https://www.curseforge.com/minecraft/mc-mods/the-world-is-listening
 
 > Place the downloaded JAR file into your Minecraft `mods` folder.
 
